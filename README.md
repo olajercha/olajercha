@@ -1,7 +1,6 @@
 <h2 align="center"> I'm Aleksandra Jercha </h2>
-<h3 align="center"> Trainee Software Tester </h3>
+<br>Currently learning Python.</br>
 
-<br>I am highly motivated and quality-oriented software tester with a strong foundation in testing methodologies. I'm dedicated to ensuring software quality and eager to collaborate with cross-functional teams to identify and resolve issues while enhancing my skills.</br>
 
 
 ## Stack 
